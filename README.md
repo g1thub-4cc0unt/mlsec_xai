@@ -1,5 +1,18 @@
 # mlsec_xai
 
+## Requirements
+- ast
+- captum
+- lime
+- matplotlib
+- numpy
+- pandas
+- re
+- seaborn
+- torch
+- transformers
+- transoformers_interpret
+
 ## Usage
 Upload the main.ipynb to Google Colab.
 Installation of all packages is handled by the first cell.
